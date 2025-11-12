@@ -1,0 +1,72 @@
+header {
+    background-color: rgb(149, 173, 190);
+    padding: 5px 0;
+}
+
+header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+header ul li{
+    float: left;
+}
+
+header ul li a{
+display: block;
+color: black;
+text-align: center;
+padding: 8px 16px;
+text-decoration: none;
+}
+
+header li a:hover{
+    background-color: #555555;
+    color: white;
+}
+
+header a {
+    font-size: 20;
+    color: black;
+    margin: 0 15px;
+    transition: color 0.3s ease;
+}
+
+body {
+    text-align: center;
+    background-image: url(OIP\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 20px;
+    margin: auto;
+    background-color: #555555;
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    background-color:  rgba(128, 128, 128, 0.658);
+}
+
+ol{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+h3{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+
